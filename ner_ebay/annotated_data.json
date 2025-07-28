@@ -1,0 +1,51 @@
+[
+  {
+    "text": "2010 Honda Accord Brake Pads Kit",
+    "entities": [
+      [0, 4, "YEAR"],
+      [5, 10, "MAKE"],
+      [11, 17, "MODEL"],
+      [18, 28, "PART"],
+      [29, 32, "INCLUDED"]
+    ]
+  },
+  {
+    "text": "2015 Ford F-150 Tail Light Assembly",
+    "entities": [
+      [0, 4, "YEAR"],
+      [5, 9, "MAKE"],
+      [10, 15, "MODEL"],
+      [16, 26, "PART"],
+      [27, 35, "INCLUDED"]
+    ]
+  },
+  {
+    "text": "2018 Toyota Camry Oil Filter Bosch",
+    "entities": [
+      [0, 4, "YEAR"],
+      [5, 11, "MAKE"],
+      [12, 17, "MODEL"],
+      [18, 28, "PART"],
+      [29, 34, "BRAND"]
+    ]
+  },
+  {
+    "text": "2012 Chevrolet Silverado 1500 Headlight Bulb",
+    "entities": [
+      [0, 4, "YEAR"],
+      [5, 14, "MAKE"],
+      [15, 29, "MODEL"],
+      [30, 44, "PART"]
+    ]
+  },
+  {
+    "text": "2019 Nissan Altima Battery Replacement",
+    "entities": [
+      [0, 4, "YEAR"],
+      [5, 11, "MAKE"],
+      [12, 18, "MODEL"],
+      [19, 26, "PART"],
+      [27, 38, "INCLUDED"]
+    ]
+  }
+]
